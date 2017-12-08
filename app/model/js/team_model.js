@@ -1,6 +1,3 @@
-/**
- * Created by Hayk on 30/03/2017.
- */
 var Promise = require('promise');
 var db = require('../db_connection');
 var TABLE = "team";
